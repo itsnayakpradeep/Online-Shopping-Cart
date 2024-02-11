@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Online-Shopping-Cart/static/css/main.4f958e65.css",
-    "main.js": "/Online-Shopping-Cart/static/js/main.9230e71e.js",
+    "main.js": "/Online-Shopping-Cart/static/js/main.9b982e1d.js",
     "static/js/592.04422432.chunk.js": "/Online-Shopping-Cart/static/js/592.04422432.chunk.js",
     "static/media/revicons.eot": "/Online-Shopping-Cart/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Online-Shopping-Cart/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -9,11 +9,11 @@
     "static/media/revicons.woff": "/Online-Shopping-Cart/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Online-Shopping-Cart/index.html",
     "main.4f958e65.css.map": "/Online-Shopping-Cart/static/css/main.4f958e65.css.map",
-    "main.9230e71e.js.map": "/Online-Shopping-Cart/static/js/main.9230e71e.js.map",
+    "main.9b982e1d.js.map": "/Online-Shopping-Cart/static/js/main.9b982e1d.js.map",
     "592.04422432.chunk.js.map": "/Online-Shopping-Cart/static/js/592.04422432.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f958e65.css",
-    "static/js/main.9230e71e.js"
+    "static/js/main.9b982e1d.js"
   ]
 }
