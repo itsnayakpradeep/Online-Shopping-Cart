@@ -29,11 +29,11 @@ export default function Header() {
                 <span class="line line3"></span>
             </div>
             <ul class="menu-items">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#sellers">Shop</a></li>
-                <li><a href="#news">Blog</a></li>
-                <li><a href="#contact">Cart <span><FaCartPlus /></span></a></li>
-                <li><a href="#contact"><FaRegUserCircle /></a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="/cart">Cart <span><FaCartPlus /></span></a></li>
+                <li><a href="#"><FaRegUserCircle /></a></li>
             </ul>
             <div className="logo">
                 <img src={logo} alt="" />
